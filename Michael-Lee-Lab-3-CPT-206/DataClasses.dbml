@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="StatesDB" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\StatesDB.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="Michael_Lee_Lab_3_CPT_206.Properties.Settings" SettingsPropertyName="StatesDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.States" Member="States">
+    <Type Name="State">
+      <Column Name="StateID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="StateName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Population" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FlagDescription" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="StateFlower" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="StateBird" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Colors" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="LargestCities" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="StateCapital" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="MedianIncome" Type="System.Decimal" DbType="Decimal(10,2) NOT NULL" CanBeNull="false" />
+      <Column Name="ComputerJobsPercent" Type="System.Decimal" DbType="Decimal(5,2) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
