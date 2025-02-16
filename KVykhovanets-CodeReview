@@ -1,0 +1,12 @@
+Code compiles without any issues and everything seems to run smoothly
+I noticed the simplicity of this program but the comments in the code helped explain that there were issues with the class library so that makes sense.
+Doesn’t have any sorting or filtering 
+The design is pretty simple but I its understandable and runs smoothly.
+The code itself is also understandable and it doesn’t lack comments so I was able to understand each line of code was doing
+I like how he prevented the user from being able to create a record using the navigator but instead, it opens up the add state form (I was a bit confused where it was because I noticed it in the code but I guess I expected a button for it instead of the add button on the binding navigator)
+If a record is deleted using the binding navigator, a message box pops up to make sure that the user is sure of their decision (definitely a good idea because it makes it much more user friendly)
+Although the design is a bit basic (not much was changed from the default), it still looks nice because the text is bold
+Maybe change the background color? That and sorting/filtering is the only thing that I would suggest working on, but the program looks good
+I also like how once a state is chosen in the dropbox, it immediately switches over to the state details form without needing a button to open that form (this may be a bit simple, but it makes the main form look much cleaner and simpler without the extra button)
+I can’t really pick if I would prefer this program or mine because I like both, but I think I would prefer some things in mine over this one and vice versa.
+Overall, great program! Using the add button on the binding navigator definitely stood out to me and I think it was a great addition to keep the form from being overcrowded with buttons
