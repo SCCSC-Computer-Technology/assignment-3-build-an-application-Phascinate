@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Michael\\source\\repos\\_Lab 3\\Michael-Lee-Lab-3-CPT-206\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5A213A-B65D-4F02-9478-1EC1BEC72B7F}|..\\StatesDatabaseClassLibrary\\StatesDatabaseClassLibrary.csproj|c:\\users\\michael\\source\\repos\\_lab 3\\statesdatabaseclasslibrary\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C578BA52-3B92-4F28-86D2-F389F8816C96}|Michael-Lee-Lab-3-CPT-206.csproj|c:\\users\\michael\\source\\repos\\_lab 3\\michael-lee-lab-3-cpt-206\\addnewstateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C578BA52-3B92-4F28-86D2-F389F8816C96}|Michael-Lee-Lab-3-CPT-206.csproj|solutionrelative:addnewstateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C578BA52-3B92-4F28-86D2-F389F8816C96}|Michael-Lee-Lab-3-CPT-206.csproj|c:\\users\\michael\\source\\repos\\_lab 3\\michael-lee-lab-3-cpt-206\\addnewstateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C578BA52-3B92-4F28-86D2-F389F8816C96}|Michael-Lee-Lab-3-CPT-206.csproj|solutionrelative:addnewstateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C578BA52-3B92-4F28-86D2-F389F8816C96}|Michael-Lee-Lab-3-CPT-206.csproj|c:\\users\\michael\\source\\repos\\_lab 3\\michael-lee-lab-3-cpt-206\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C578BA52-3B92-4F28-86D2-F389F8816C96}|Michael-Lee-Lab-3-CPT-206.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C578BA52-3B92-4F28-86D2-F389F8816C96}|Michael-Lee-Lab-3-CPT-206.csproj|C:\\Users\\Michael\\source\\repos\\_Lab 3\\Michael-Lee-Lab-3-CPT-206\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C578BA52-3B92-4F28-86D2-F389F8816C96}|Michael-Lee-Lab-3-CPT-206.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C578BA52-3B92-4F28-86D2-F389F8816C96}|Michael-Lee-Lab-3-CPT-206.csproj|c:\\users\\michael\\source\\repos\\_lab 3\\michael-lee-lab-3-cpt-206\\statedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C578BA52-3B92-4F28-86D2-F389F8816C96}|Michael-Lee-Lab-3-CPT-206.csproj|solutionrelative:statedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C578BA52-3B92-4F28-86D2-F389F8816C96}|Michael-Lee-Lab-3-CPT-206.csproj|c:\\users\\michael\\source\\repos\\_lab 3\\michael-lee-lab-3-cpt-206\\statedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C578BA52-3B92-4F28-86D2-F389F8816C96}|Michael-Lee-Lab-3-CPT-206.csproj|solutionrelative:statedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C578BA52-3B92-4F28-86D2-F389F8816C96}|Michael-Lee-Lab-3-CPT-206.csproj|c:\\users\\michael\\source\\repos\\_lab 3\\michael-lee-lab-3-cpt-206\\statesdbdataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{C578BA52-3B92-4F28-86D2-F389F8816C96}|Michael-Lee-Lab-3-CPT-206.csproj|solutionrelative:statesdbdataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\source\\repos\\_Lab 3\\Michael-Lee-Lab-3-CPT-206\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Michael\\source\\repos\\_Lab 3\\Michael-Lee-Lab-3-CPT-206\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAjwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:28:16.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddNewStateForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Michael\\source\\repos\\_Lab 3\\Michael-Lee-Lab-3-CPT-206\\AddNewStateForm.cs",
+              "RelativeDocumentMoniker": "AddNewStateForm.cs",
+              "ToolTip": "C:\\Users\\Michael\\source\\repos\\_Lab 3\\Michael-Lee-Lab-3-CPT-206\\AddNewStateForm.cs [Design]",
+              "RelativeToolTip": "AddNewStateForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:31:15.287Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddNewStateForm.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\source\\repos\\_Lab 3\\Michael-Lee-Lab-3-CPT-206\\AddNewStateForm.cs",
+              "RelativeDocumentMoniker": "AddNewStateForm.cs",
+              "ToolTip": "C:\\Users\\Michael\\source\\repos\\_Lab 3\\Michael-Lee-Lab-3-CPT-206\\AddNewStateForm.cs",
+              "RelativeToolTip": "AddNewStateForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:31:16.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\source\\repos\\_Lab 3\\StatesDatabaseClassLibrary\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\StatesDatabaseClassLibrary\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Michael\\source\\repos\\_Lab 3\\StatesDatabaseClassLibrary\\AppDbContext.cs",
+              "RelativeToolTip": "..\\StatesDatabaseClassLibrary\\AppDbContext.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:37:22.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Michael\\source\\repos\\_Lab 3\\Michael-Lee-Lab-3-CPT-206\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Michael\\source\\repos\\_Lab 3\\Michael-Lee-Lab-3-CPT-206\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:27:08.14Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StateDetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Michael\\source\\repos\\_Lab 3\\Michael-Lee-Lab-3-CPT-206\\StateDetailsForm.cs",
+              "RelativeDocumentMoniker": "StateDetailsForm.cs",
+              "ToolTip": "C:\\Users\\Michael\\source\\repos\\_Lab 3\\Michael-Lee-Lab-3-CPT-206\\StateDetailsForm.cs [Design]",
+              "RelativeToolTip": "StateDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:27:37.387Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StateDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\source\\repos\\_Lab 3\\Michael-Lee-Lab-3-CPT-206\\StateDetailsForm.cs",
+              "RelativeDocumentMoniker": "StateDetailsForm.cs",
+              "ToolTip": "C:\\Users\\Michael\\source\\repos\\_Lab 3\\Michael-Lee-Lab-3-CPT-206\\StateDetailsForm.cs",
+              "RelativeToolTip": "StateDetailsForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:27:39.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StatesDBDataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\Michael\\source\\repos\\_Lab 3\\Michael-Lee-Lab-3-CPT-206\\StatesDBDataSet1.xsd",
+              "RelativeDocumentMoniker": "StatesDBDataSet1.xsd",
+              "ToolTip": "C:\\Users\\Michael\\source\\repos\\_Lab 3\\Michael-Lee-Lab-3-CPT-206\\StatesDBDataSet1.xsd",
+              "RelativeToolTip": "StatesDBDataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-02-18T22:36:02.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

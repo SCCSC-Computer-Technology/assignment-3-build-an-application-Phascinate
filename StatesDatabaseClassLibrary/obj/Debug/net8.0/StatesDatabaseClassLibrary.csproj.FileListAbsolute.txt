@@ -1,0 +1,29 @@
+C:\Users\Michael\source\repos\StatesDatabaseClassLibrary\bin\Debug\net8.0\StatesDatabaseClassLibrary.deps.json
+C:\Users\Michael\source\repos\StatesDatabaseClassLibrary\bin\Debug\net8.0\StatesDatabaseClassLibrary.dll
+C:\Users\Michael\source\repos\StatesDatabaseClassLibrary\bin\Debug\net8.0\StatesDatabaseClassLibrary.pdb
+C:\Users\Michael\source\repos\StatesDatabaseClassLibrary\obj\Debug\net8.0\StatesDatabaseClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\StatesDatabaseClassLibrary\obj\Debug\net8.0\StatesDatabaseClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\StatesDatabaseClassLibrary\obj\Debug\net8.0\StatesDatabaseClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\StatesDatabaseClassLibrary\obj\Debug\net8.0\StatesDatabaseClassLibrary.AssemblyInfo.cs
+C:\Users\Michael\source\repos\StatesDatabaseClassLibrary\obj\Debug\net8.0\StatesDatabaseClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\StatesDatabaseClassLibrary\obj\Debug\net8.0\StatesDatabaseClassLibrary.dll
+C:\Users\Michael\source\repos\StatesDatabaseClassLibrary\obj\Debug\net8.0\refint\StatesDatabaseClassLibrary.dll
+C:\Users\Michael\source\repos\StatesDatabaseClassLibrary\obj\Debug\net8.0\StatesDatabaseClassLibrary.pdb
+C:\Users\Michael\source\repos\StatesDatabaseClassLibrary\obj\Debug\net8.0\ref\StatesDatabaseClassLibrary.dll
+C:\Users\Michael\source\repos\_Lab 3\StatesDatabaseClassLibrary\bin\Debug\net8.0\StatesDatabaseClassLibrary.deps.json
+C:\Users\Michael\source\repos\_Lab 3\StatesDatabaseClassLibrary\bin\Debug\net8.0\StatesDatabaseClassLibrary.dll
+C:\Users\Michael\source\repos\_Lab 3\StatesDatabaseClassLibrary\bin\Debug\net8.0\StatesDatabaseClassLibrary.pdb
+C:\Users\Michael\source\repos\_Lab 3\StatesDatabaseClassLibrary\obj\Debug\net8.0\StatesDatabaseClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\_Lab 3\StatesDatabaseClassLibrary\obj\Debug\net8.0\StatesDatabaseClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\_Lab 3\StatesDatabaseClassLibrary\obj\Debug\net8.0\StatesDatabaseClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\_Lab 3\StatesDatabaseClassLibrary\obj\Debug\net8.0\StatesDatabaseClassLibrary.AssemblyInfo.cs
+C:\Users\Michael\source\repos\_Lab 3\StatesDatabaseClassLibrary\obj\Debug\net8.0\StatesDatabaseClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\_Lab 3\StatesDatabaseClassLibrary\obj\Debug\net8.0\StatesDatabaseClassLibrary.dll
+C:\Users\Michael\source\repos\_Lab 3\StatesDatabaseClassLibrary\obj\Debug\net8.0\refint\StatesDatabaseClassLibrary.dll
+C:\Users\Michael\source\repos\_Lab 3\StatesDatabaseClassLibrary\obj\Debug\net8.0\StatesDatabaseClassLibrary.pdb
+C:\Users\Michael\source\repos\_Lab 3\StatesDatabaseClassLibrary\obj\Debug\net8.0\ref\StatesDatabaseClassLibrary.dll
+C:\Users\Michael\source\repos\_Lab 3\StatesDatabaseClassLibrary\bin\Debug\net8.0\Database\StatesDB2.mdf
+C:\Users\Michael\source\repos\_Lab 3\StatesDatabaseClassLibrary\bin\Debug\net8.0\StatesDatabaseClassLibrary.runtimeconfig.json
+C:\Users\Michael\source\repos\_Lab 3\StatesDatabaseClassLibrary\obj\Debug\net8.0\StatesDatabaseClassLibrary.genruntimeconfig.cache
+C:\Users\Michael\source\repos\_Lab 3\StatesDatabaseClassLibrary\bin\Debug\net8.0\Database\StatesDB2_log.ldf
+C:\Users\Michael\source\repos\_Lab 3\StatesDatabaseClassLibrary\bin\Debug\net8.0\Database\StatesDB_log.ldf

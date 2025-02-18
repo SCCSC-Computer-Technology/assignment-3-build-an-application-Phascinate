@@ -1,0 +1,5 @@
+C:\Users\Michael\source\repos\StatesDatabaseClassLibrary\obj\Debug\net5.0\StatesDatabaseClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\StatesDatabaseClassLibrary\obj\Debug\net5.0\StatesDatabaseClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\StatesDatabaseClassLibrary\obj\Debug\net5.0\StatesDatabaseClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\StatesDatabaseClassLibrary\obj\Debug\net5.0\StatesDatabaseClassLibrary.AssemblyInfo.cs
+C:\Users\Michael\source\repos\StatesDatabaseClassLibrary\obj\Debug\net5.0\StatesDatabaseClassLibrary.csproj.CoreCompileInputs.cache
