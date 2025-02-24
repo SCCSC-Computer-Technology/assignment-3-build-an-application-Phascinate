@@ -1,0 +1,3 @@
+the code is clean and the data validation is handled nicely
+on the main form you can toggle a property that wont let the user edit the data.
+Otherwise the code reads very nice hopefully i can figure out how to get visual studio to let me clone the repositiory next time so i can test it properly.
