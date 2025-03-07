@@ -1,0 +1,10 @@
+Michael, I like how your code for each forms are uniquely different from each other from "_context. SaveChanges" 
+to "$ ERROR adding state: {ex.Message}", "Database Error" MessageBoxButtons. OK, (MessageBoxIcon.Error);" in the AddNewStateForm because
+it's a new knowledge of how to add a new state. Each form is commented orgainzed with reason and have correct exception errors in place.
+However, there isn't a class library [unless it's name differnt] and file name is partially correct.
+
+Once trying to run, it showed a Microsoft Visual Studio Message saying, "There were build errors. Would you like to continue and run the 
+last successful build?" with a a "Yes" and "No" option. I clicked the "No" option because of fear of crashing my personal computer.
+
+Overall, the program itself looks very promising even without testing the lab itself. The presentation from each forms are different base
+on textbox width but, it seems there isn't a button to add a state or view details from the main form.
